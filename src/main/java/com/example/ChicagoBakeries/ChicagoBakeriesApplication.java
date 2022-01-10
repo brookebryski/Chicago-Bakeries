@@ -11,14 +11,3 @@ public class ChicagoBakeriesApplication {
 	}
 
 }
-
-// 1: Tous Les Jours
-// 2: Sweet Mandy B's
-// 3: Maison Parisienne
-// 4: Alliance Bakery & Cafe
-// 5: Aya Pastry
-// 6: Bake
-// 7: Chiu Quon Bakery & Dim Sum
-// 8: Firecakes Donuts
-// 9: Bjorn Cakes
-// 10: Markellos Baking Company
