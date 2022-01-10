@@ -16,7 +16,7 @@ public class Bakery implements IBakery {
             case "6":
                 return "Bake";
             case "7":
-                return: "Chiu Quon Bakery & Dim Sum";
+                return "Chiu Quon Bakery & Dim Sum";
             case "8":
                 return "Firecakes Donuts";
             case "9":
