@@ -1,7 +1,7 @@
 package com.example.ChicagoBakeries;
 
 public class BakeryValidator implements IBakeryValidator {
-    public boolean isInRange(String input) {
+    public boolean isBakery(String input) {
         switch (input) {
             case "1":
             case "2":
